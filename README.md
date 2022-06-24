@@ -1,4 +1,4 @@
-# Construindo um App usando Sensor de Movimento com React Native
+# APP - React Native
 
 Desafio dio: Construindo um app usando o sensor de movimento com React Native
 

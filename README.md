@@ -1,4 +1,4 @@
-# dio-SensorMovimento_APP
+# Construindo um App usando Sensor de Movimento com React Native
 
 Desafio dio: Construindo um app usando o sensor de movimento com React Native
 
